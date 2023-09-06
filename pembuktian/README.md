@@ -1,1 +1,0 @@
-# Dasar Pemograman Pembuktian
